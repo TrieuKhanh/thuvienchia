@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fpie  -shared -Wl,-soname,libthuvienchia.so -o libthuvienchia.so CMakeFiles/thuvienchia.dir/phepnhan.cpp.o 

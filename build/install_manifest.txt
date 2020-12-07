@@ -1,0 +1,2 @@
+/home/pham/cpp/thuvienchung/thuvienchia/libthuvienchia.so
+/home/pham/cpp/thuvienchung/thuvienchia/phepnhan.h
